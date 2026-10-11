@@ -1,9 +1,12 @@
-Nama: Zaskia Qanita Najiyah
-Nim: 2430511024
-Kelas: 5A
+Nama: Muhammad Daffa Wicaksono
+Nim: 2430511079
+Kelas: 5B
+
+Aplikasi Buku Harian Daffawicak ini dikembangkan menggunakan React Native dengan Expo CLI sesuai modul praktikum Mobile Programming, di mana antarmuka utamanya memanfaatkan komponen dasar seperti View, Text, Image, dan ScrollView yang diatur menggunakan Flexbox serta disusun secara rapi ke dalam struktur folder src/screens dan src/components.
 
 Screenshoot Aplikasi:
-c:\Users\meisy\Downloads\SSAN.jpeg
+<img width="738" height="1600" alt="SSAND" src="https://github.com/user-attachments/assets/4bab3dd1-93f8-43f6-835f-24c14e37800d" />
+
 
 langkah menjalankan proyek:
 - Buka Terminal & Masuk ke Folder Proyek
